@@ -7,21 +7,22 @@ Depremsel App is an iOS application that displays a list of recent earthquakes i
 ## Installation
 
 1. Clone or download the repository to your local machine.
-2. Open the EarthquakeTracker.xcodeproj file in Xcode.
+2. Open the <span style="color:red ">*DepremselApp.xcodeproj*</span> file in Xcode.
 3. Select a simulator or a physical device to run the app on.
 4. Click the "Run" button in Xcode to build and run the app.
 
 ## Screenshots
 
-![Screenshot 1](Docs/earthquake-1.png) ![Screenshot 2](Docs/earthquake-2.png)
+![Screenshot 1](assets/depremsellapp-1.png) 
+![Screenshot 2](assets/depremsellapp-2.png)
 
 ## Features
 
 - View a list of recent earthquakes in a table view
-- Sort the earthquakes by magnitude, date, or location
+- Sort the earthquakes by date or magnitude.
 - Color-code the earthquakes by magnitude
 - Click on a cell to view more details about a particular earthquake
-- View earthquake fault lines on a map
+- View earthquake on a map
 
 ## Todo
 
@@ -31,7 +32,7 @@ Depremsel App is an iOS application that displays a list of recent earthquakes i
 
 ## Credits
 
-The earthquake data is sourced from the kandilli observatory and earthquake research institute (KOERI)
+The earthquake data is sourced from the Kandilli observatory and earthquake research institute (KOERI)
 
 The app also uses the Kandilli Rasathanesi API (https://github.com/orhanayd/kandilli-rasathanesi-api) to retrieve earthquake data in Turkey. We would like to thank Orhan AYDIN (https://github.com/orhanayd) for creating and maintaining this API.
 
