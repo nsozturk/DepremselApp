@@ -28,9 +28,9 @@ Depremsel App is an iOS application that displays a list of recent earthquakes i
 
 ## Todo
 
-[ ] Add a notification when the "Fetch" button is pressed, if there are earthquakes with a spesific magnitude.
+[] Add a notification when the "Fetch" button is pressed, if there are earthquakes with a spesific magnitude.
 
-[ ] Display earthquake on a map which has turkey's all faults drawin.
+[] Display earthquake on a map which has turkey's all faults drawin.
 
 ## Credits
 
